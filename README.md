@@ -129,6 +129,6 @@ $ sudo systemctl restart nginx
 ---
 
 ### Author
-Developed by [Ben Niyogisubizo](https://github.com/Beni-niyogisubizo/).
+Developed by [BUGINGO Pine](https://github.com/b-pine/).
 
 ---
